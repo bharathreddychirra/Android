@@ -1,0 +1,10 @@
+1422021412289	Change Layout
+1422021559337	Change Layout
+1422021871326	Change Layout
+1422022500578	Change Layout
+1422023770697	Rename field 'textView1'
+1422024318981	Rename field 'seekBar1'
+1422025453779	Extracts string 'null' into R.string.Amount
+1422025492422	Extracts string 'null' into R.string.amount
+1422026469830	Extracts string 'Medium Text' into R.string.medium_text
+1422028516587	Extracts string '15%' into R.string._15_
